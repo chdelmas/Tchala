@@ -1,0 +1,25 @@
+<settings>
+    <setting>
+        <host>localhost</host>
+        <appname>hec</appname>
+        <Title>hec</Title>
+        <database>webdata</database>
+        <username>root</username>
+        <password>system</password>
+        <php>php</php>
+        <Start>images/bg/default.png</Start>
+        <Login>images/bg/default.png</Login>
+        <Main>images/bg/default.png</Main>
+        <About>images/bg/default.png</About>
+        <Register>images/bg/default.png</Register>
+        <Alert>images/bg/default.png</Alert>
+        <Setting>images/bg/default.png</frmSetting>
+        <Chart>images/bg/default.png</Chart>
+        <Evaluation>images/bg/default.png</Evaluation>
+        <Formation>images/bg/default.png</Formation>
+        <Intervention>images/bg/default.png</Intervention>
+        <Conseil>images/bg/default.png</Conseil>
+        <background>images/bg/default.png</background>
+        <banner>images/bg/default.png</banner>
+     </setting>
+</settings>

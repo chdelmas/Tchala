@@ -1,0 +1,23 @@
+<settings>
+    <setting>
+        <host>localhost</host>
+        <appname>tchala</appname>
+        <database>tchaladb</database>
+        <username>root</username>
+        <password>system</password>
+        <php>php</php>
+        <frmStart>images/bg/start.png</frmStart>
+        <frmLogin>images/bg/default.png</frmLogin>
+        <frmMain>images/bg/default.png</frmMain>
+        <frmAbout>images/bg/default.png</frmAbout>
+        <frmRegister>images/bg/default.png</frmRegister>
+        <frmPwdAlert>images/bg/default.png</frmPwdAlert>
+        <frmSetting>images/bg/default.png</frmSetting>
+        <frmChart>images/bg/default.png</frmChart>
+        <frmMenuA>images/bg/default.png</frmMenuA>
+        <frmProgram>images/bg/default.png</frmProgram>
+        <background>images/bg/default.png</background>
+        <banner>images/bg/default.png</banner>
+        <update>php/tchala/update.php</update>
+     </setting>
+</settings>

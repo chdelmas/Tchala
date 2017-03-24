@@ -1,0 +1,6 @@
+{ "setting" : {form : "frm_start" , "background" : "url(bg/citadel-haiti.png)" , "banner" : "images/banner.png" }  }
+{ "setting" : {form : "frm_main" , "background" : "url(bg/default.png)" , "banner" : "images/banner.png" }  }
+{ "setting" : {form : "frm_news" , "background" : "url(bg/bg.png)" , "banner" : "images/banner.png" }  }
+{ "setting" : {form : "rm_setting" , "background" : "url(bg/bg.png)" , "banner" : "images/banner.png" }  }
+ 
+      
